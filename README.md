@@ -46,13 +46,4 @@
 | TypeScript| Типизация, масштабируемость | Большие фронты, fullstack  |
 
 
-## Контакты
-<div align="center">
-  <a href="https://t.me/n1s_01" target="_blank">Telegram DM</a>
-  &nbsp;&bull;&nbsp;
-  <a href="https://t.me/the_void_dev" target="_blank">Telegram канал</a>
-  &nbsp;&bull;&nbsp;
-  <a href="https://thevoid.team" target="_blank">thevoid.team</a>
-</div>
-
 
