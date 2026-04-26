@@ -20,6 +20,10 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n1s01&theme=dark" />
+</div>
+
 ### 🛠 Технологии и Инструменты
 
 **Backend & DB** <br>
