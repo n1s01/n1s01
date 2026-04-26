@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=n1s_01&textBg=false&fontColor=black&fontSize=44&desc=best%20frontend%20backend%20development&descSize=16&descAlignY=65" alt="Градиентный баннер n1s_01" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=n1s_01&textBg=false&fontSize=44&desc=best%20frontend%20backend%20development&descSize=16&descAlignY=65" alt="Градиентный баннер n1s_01" width="100%" />
   
   <h1>⚡ n1s_01 ⚡</h1>
   <p><i>backend, frontend development</i></p>
